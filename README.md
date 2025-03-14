@@ -10,7 +10,7 @@
 - Yapay zeka & otomasyon projeleri
 
 ### 📺 YouTube & Sosyal Medya
-- YouTube: [https://www.youtube.com/@alperentech]
+- YouTube: [AlperenTech's Youtube](https://www.youtube.com/@alperentech)
 
 ### 📊 GitHub İstatistiklerim
 ![AlperenTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperentech&show_icons=true&theme=radical)
